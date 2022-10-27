@@ -1,20 +1,47 @@
-## :clipboard: Basic Info
-   #### :bulb: Project Name: [***Sunnyside Agency Landing Page***](https://a7m3d000.github.io/Sunnyside-Agency-Landing-Page/)
-   #### :bulb: Project Type: ***Challenge*** from ***Front End Mentor*** Website 
-   #### :bulb: Project Level: ***Heigh*** -> ***[ H ]***
-   
-   #### :bulb: Challenge URL: [***Sunnyside Agency Landing Page***](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef)
-   
----
-
-## :clipboard: Basic Languages
- - [x] HTML
- - [x] CSS
- - [x] JavaScript
+# Sunnyside Landing Page
 
 ---
 
-## :clipboard: Frameworks
- :pushpin: Frameworks
-   - [x] React
+# Description
 
+This is a [**Sunnyside**](https://sunnysidew.vercel.app/#/) Website.
+
+---
+
+# App Features
+
+- Responsive
+- Nice Design
+- Speed & Good Performance
+
+---
+
+# Languages & Technologies
+
+### Languages used in this Website:
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="drawing" width="48" height="48"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=ar"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="drawing" width="48" height="48"/></a>
+  <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png" width="48" height="48"/></a>
+</div>
+
+### Technologies used in this Website:
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://reactjs.org/"><img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" alt="drawing" width="48" height="48"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48"/></a>
+  <a href="https://styled-components.com/"><img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/nail-polish-73-761221.png" width="48" height="48"/></a>
+</div>
+
+### Other Libs & Packages:
+
+- [AOS](https://michalsnik.github.io/aos/) Library
+- [react-bootstrap](https://react-bootstrap.github.io/)
+- [styled-components](https://styled-components.com/) Library
+
+---
+
+# Website Screenshot
+
+![Squid Game Website]()
