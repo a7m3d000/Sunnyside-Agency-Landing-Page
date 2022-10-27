@@ -1,4 +1,4 @@
-# Sunnyside Landing Page
+# Sunnyside
 
 ---
 
@@ -44,4 +44,4 @@ This is a [**Sunnyside**](https://sunnysidew.vercel.app/#/) Website.
 
 # Website Screenshot
 
-![Squid Game Website]()
+![Sunnyside Website](https://github.com/ahmedmohmd/sunnyside/blob/main/app-screenshot.png?raw=true)
